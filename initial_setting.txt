@@ -1,0 +1,7 @@
+### RUN IN YOUR TERMINAL (not R console) !!
+###Itnitial setting
+git clone git clone https://github.com/naru-T/test_Rproject.git
+
+### git setting
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
